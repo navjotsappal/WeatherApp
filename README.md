@@ -1,7 +1,6 @@
-# MultiSearchApp
+# WeatherApp
 
-This app uses three different API's to let users search for pictures, movies or song lyrics in one application<br/>
-Thanks to utilizing react redux, MultiSearchApp doesn't loose the search results when changing between components.<br/> 
+This app allow users to search weather details for any given city!<br/> 
 
 ## Used
 
