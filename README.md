@@ -14,13 +14,12 @@ This app allow users to search weather details for any given city!<br/>
 
 ## API's
 
-- Pictures: Pixabay 
-- Movies: themoviedb
-- Song Lyrics: musixmatch
+- Open Weather Map 
+
 
 ## Screenshots
 
-![multiSearchApp Picture](demo/1.jpg)<br/>
+![WeatherApp](demo/1.jpg)<br/>
 
-![multiSearchApp Picture](demo/2.jpg)<br/>
+![WeatherApp Picture](demo/2.jpg)<br/>
 
