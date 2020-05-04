@@ -1,6 +1,6 @@
 # WeatherApp
 
-This app help users to search for weather details for any given city!<br/> 
+This app helps users to search for weather details for any given city!<br/> 
 
 ## Used
 
