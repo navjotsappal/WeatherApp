@@ -7,12 +7,11 @@ Thanks to utilizing react redux, MultiSearchApp doesn't loose the search results
 
 - HTML5
 - React
-- CSS
+- CSS3
 
 ## also
 
-- React-redux
-- Material-UI
+-Bootstrap 4
 
 ## API's
 
