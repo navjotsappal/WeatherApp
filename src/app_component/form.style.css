@@ -1,0 +1,33 @@
+
+
+form input[name="city"]{
+    
+    color: black;
+    background-color: whitesmoke!important;
+
+}
+.container{
+    max-width: 576px;
+    padding: 1rem;
+    margin-top: 2rem;    
+    background-color: #1c2331;
+}
+
+h1.title{ 
+    color: #59cdf7;
+    padding-bottom: .5rem;
+}
+
+.btn{
+    background-color: #59cdf7;
+    color: whitesmoke;
+}
+
+.btn:hover{
+    color:#1c2331;
+    background-color: whitesmoke;
+    border: 2px solid #1c2331;
+}
+.color-icon{
+    color:  #59cdf7 !important;
+}
